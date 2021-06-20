@@ -1,0 +1,29 @@
+
+.field{
+    max-width: 144px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    font-size: 10px;
+}
+.container{
+    display: flex;
+    max-width: 144px;
+    flex-wrap: wrap;
+}
+.block{
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+.container input{
+    width: 22px;
+    height: 22px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    font-size: 6px;
+    padding: 0;
+}
+.operation {
+    height: 46px;
+}
